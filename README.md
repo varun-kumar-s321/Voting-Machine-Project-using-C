@@ -1,8 +1,25 @@
-# Voting-Machine-Project-using-C
-This project simulates an electronic voting machine using C.In a voting machine program, the user must choose one option from a fixed list of choices such as voting for a candidate, viewing results, or exiting the system.
-It records votes for candidates and displays total votes and number of voters.
+# Voting Machine using C
+
+This project implements a simple electronic voting machine using the C programming language.
+It allows users to vote for candidates, counts votes accurately, and displays the total number
+of persons who voted.
+
+## Features
+- Menu-driven voting system
+- Vote counting for multiple candidates
+- Displays total number of voters
+- Simple and user-friendly interface
+
 ## Output
-The following output shows the working of the electronic voting machine,
-including vote casting for candidates and total number of persons voted.
+The following screenshot shows the execution of the voting machine program.
 
 ![Voting Machine Output](output.png)
+
+## Concepts Used
+- switch-case
+- while loop
+- Variables and counters
+- Menu-driven programming
+
+## Author
+Varun Kumar S
