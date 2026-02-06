@@ -13,13 +13,13 @@ of persons who voted.
 ## Output
 The following screenshot shows the execution of the voting machine program.
 
-![Voting Machine Output](output1.pngoutput2.png)
+![Program Output](output1.png)
+![Program Output](output2.png)
 
 ## Concepts Used
 - switch-case
 - while loop
 - Variables and counters
-- Menu-driven programming
 
 ## Author
 Varun Kumar S
