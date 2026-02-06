@@ -13,7 +13,7 @@ of persons who voted.
 ## Output
 The following screenshot shows the execution of the voting machine program.
 
-![Voting Machine Output](output.png)
+![Voting Machine Output](output1.pngoutput2.png)
 
 ## Concepts Used
 - switch-case
